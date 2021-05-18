@@ -15,12 +15,12 @@
 * # 요구사항 정의서
 ![image](https://user-images.githubusercontent.com/80032533/118573224-11301d80-b7bd-11eb-9fc4-025313439547.png)
 * #  설계서
-* ## 아키텍쳐
-![image](https://user-images.githubusercontent.com/80032533/118573251-22792a00-b7bd-11eb-8b62-dd85a4e01d46.png)
-* ## 시퀀스 다이어그램
-![image](https://user-images.githubusercontent.com/80032533/118573267-29a03800-b7bd-11eb-8057-44731b1b2dd3.png)
-* ## 클래스 다이어그램
-![image](https://user-images.githubusercontent.com/80032533/118574244-fd85b680-b7be-11eb-8682-3c787a850f38.png)
+  * ## 아키텍쳐
+  ![image](https://user-images.githubusercontent.com/80032533/118573251-22792a00-b7bd-11eb-8b62-dd85a4e01d46.png)
+  * ## 시퀀스 다이어그램
+  ![image](https://user-images.githubusercontent.com/80032533/118573267-29a03800-b7bd-11eb-8057-44731b1b2dd3.png)
+  * ## 클래스 다이어그램
+  ![image](https://user-images.githubusercontent.com/80032533/118574244-fd85b680-b7be-11eb-8682-3c787a850f38.png)
 
 
 
