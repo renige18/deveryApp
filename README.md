@@ -1,8 +1,13 @@
 
 * # 기능
-식당에서 QR코드로 현재 본인이 있는 식당을 선택하고, 앱으로 주문 및 결재
+1인 가족 시대를 맞아 치킨등 혼자 다 먹기 힘든 배달음식 및 비용을 나누기 위한 앱
+
+
 * # 차별성
-JDBC, Firebase 모두 수용가능한 인터페이스를 이용한 설계 및 구현
+쉐어 데이터를 다른 서비스에서 전송 받을수도 있고 
+자체 서비스도 받을수 있는 이중구조
+![image](https://user-images.githubusercontent.com/80032533/118574359-34f46300-b7bf-11eb-88d7-440ee9868a91.png)
+
 * # 개발후기
 ![image](https://user-images.githubusercontent.com/80032533/118574269-08d8e200-b7bf-11eb-9141-c3b6c259f9d9.png)
 
